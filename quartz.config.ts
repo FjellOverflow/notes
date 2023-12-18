@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Notes",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: null,
     baseUrl: "fjelloverflow.github.io/notes",

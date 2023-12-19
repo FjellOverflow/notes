@@ -48,6 +48,7 @@
     overflow-y: auto;
     display: none;
     backdrop-filter: blur(4px);
+    background-color: rgba(0, 0, 0, 0.33);
 
     &.active {
       display: inline-block;

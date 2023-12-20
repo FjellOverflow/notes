@@ -11,7 +11,7 @@ function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
         <img src={`https://${cfg.baseUrl}/static/icon.svg`} class="desktop-only page-hero" />
       </a>
       <h1 class={`page-title ${displayClass ?? ""}`}>
-        <a href={baseDir}>{title}</a>
+        <a href={baseDir} class="gradient">{title}</a>
       </h1>
     </div>
   )
@@ -21,6 +21,12 @@ PageTitle.css = `
 .page-title {
   margin: 0;
   font-size: 3rem;
+}
+
+.gradient {
+  background: linear-gradient(to right, #88C0D0, #5E81AC);
+  -webkit-background-clip: text;
+  color: transparent;
 }
 
 .page-hero {

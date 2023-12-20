@@ -7,7 +7,9 @@ function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
 
   return (
     <div style="display: flex; justify-content: start; align-items: center;">
-      <img src={`https://${cfg.baseUrl}/static/icon.svg`} class="desktop-only page-hero" />
+      <a href={baseDir}>
+        <img src={`https://${cfg.baseUrl}/static/icon.svg`} class="desktop-only page-hero" />
+      </a>
       <h1 class={`page-title ${displayClass ?? ""}`}>
         <a href={baseDir}>{title}</a>
       </h1>

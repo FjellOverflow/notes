@@ -6,6 +6,12 @@
       <description>Last 10 notes on Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Notifications</title>
+    <link>https://fjelloverflow.github.io/notes/homeserver/Notifications</link>
+    <guid>https://fjelloverflow.github.io/notes/homeserver/Notifications</guid>
+    <description>Push notifications are useful to inform about server restarts successful backups public IP changes updated docker images or any other results or errors in automatically executed scripts and events.</description>
+    <pubDate>Wed, 27 Dec 2023 16:09:29 GMT</pubDate>
+  </item><item>
     <title>Home</title>
     <link>https://fjelloverflow.github.io/notes//</link>
     <guid>https://fjelloverflow.github.io/notes//</guid>

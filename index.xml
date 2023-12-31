@@ -7,10 +7,16 @@
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Notifications</title>
-    <link>https://fjelloverflow.github.io/notes/homeserver/Notifications</link>
-    <guid>https://fjelloverflow.github.io/notes/homeserver/Notifications</guid>
+    <link>https://fjelloverflow.github.io/notes/Homeserver/Notifications</link>
+    <guid>https://fjelloverflow.github.io/notes/Homeserver/Notifications</guid>
     <description>Push notifications are useful to inform about server restarts successful backups public IP changes updated docker images or any other results or errors in automatically executed scripts and events.</description>
-    <pubDate>Wed, 27 Dec 2023 16:21:22 GMT</pubDate>
+    <pubDate>Sun, 31 Dec 2023 13:19:17 GMT</pubDate>
+  </item><item>
+    <title>🇪🇪 Estonian cheat sheet</title>
+    <link>https://fjelloverflow.github.io/notes/Estonian</link>
+    <guid>https://fjelloverflow.github.io/notes/Estonian</guid>
+    <description>Greetings &amp; Goodbyes § ETENhommikmorningpäevdayõhtueveningöönightkullakehoneytere / tervisthellotšaubyenohwell Tere (hommikust / päevast / õhtust)! - Good (morning / afternoon / evening)! Head aega - Goodbye Nägemiseni siis - See you then Nägemist - See you Kõike head - All the best Kuulmiseni - I’ll be hearing from you Homseni - Until tomorrow Head õhtut - Have a good evening Head ööd - Have a good night Kohtumiseni - Until we see Numbers, Weekdays &amp; Time § ENET0null1üks2kaks3kolm4neli5viis6kuus7seitse8kaheksa9üheksa10kümme11üksteist12kaksteist ETENesmaspäevMondayteisipäevTuesdaykolmapäevWednesdayneljapäevThursdayreedeFridaylaupäevSaturdaypühapäevSunday ETENveerandquarter pastkolmveerandthree quartersjubaalready Esmaspäevani - Until monday Mis kell on? - What’s the time? Kell on 1 - It’s 1 o’clock Kui palju kell on? - What time is it? Kell on pool seitse - I’ts half past six Üks hetk - One moment Ma kohe vaatan - I’ll have a look Appi - Oh dear Pronouns § ETENmina / maIsina / sayou (informal)teie / teyou (formal)tema / tahe/shemeie / meweteie / teyounemad / nadthey Requests § Ütleme sina - Let’s use informal you Tule palung siia - Please come here Helista siis mulle, palun - Please call me then Joo veel kohvi - Drink more coffee Palun ära tee niimodi - Please don’t do that Istu palun - Sit, please Kuhu ma istun? - Where can I sit? Thanks § Aitäh - Thanks Tänu - I thank you Suur aitäh - Big thanks Suur suur aitaäh - Thank you very much Palun - Please / You are welcome / Here you are Vabandust - I’m sorry Vabandage - I’m sorry (formal) Anna andeks - Forgive me Pole midagi/viga - No problem Pole hullu - Nothing crazy Getting acquainted § ETENprouamrshärramrkaptancaptainklounclownkas …question with answer yes / notõestireallynatukenea little Saage palun tuttavaks - Get acquainted Saame tuttavaks - Let’s get acquainted Meeldiv tutvuda - Nice to meet you Väga meeldiv - Very pleasant Samad sõnad - Same here Me pole vist varem kohtunud - We probably have not met before Minu nimi on - My name is Kas ma tohin ennast tutvustada - May I introduce myself? Kas ma tohin tutvustada … - May I introduce …? Do you speak … § Kas sa räägid … keelt? - Do you speak …? Kas sa oskad … keelt? - Do you speak …? Räägin küll - Yes, I do Kahjuks ei oska - Unfortunately, I don’t Mina ka ei oska - I don’t speak it either Ma ei saa aru - I don’t understand Oskan küll - I do indeed Aga sina? - What about you? Kui huvitav - How interesting Verbs § ETENsöömato eatjöömato drinkistumato sittulemato comeolemato berääkimato speak Olema § PronounFormminaolensinaoledtemaonmeieolemeteieoletenemadon Rääkima § PronounFormmarääginsaräägidtaräägibmeräägimeteräägitenadräägivad Mina ei ole - I am not Mina pole - I am not Ma ei … - i don’t … Ära … - Don’t … What’s your name? § ETENniminameperekonnanimisurnameeesnimiforename Minu nimi on … - My name is … Mis su nimi on? - What’s your name? Kas sinu nimi on …? - Is your name …? Kuidas teie perekonnanimi on? - What is your surname? Ja kes teie olete? - And who are you? ENET longET shortmyminumuyoursinusuhis/her/itstemataourmeiemeyourteietetheirnendenende Alphabet § Estonian § A B D E G H I J K L M N O P R S T U V Õ Ä Ö Ü Foreign § C F Q Š Z Ž W With … § Ma tantsin Romeoga - I’m dancing with Romeo Ühe “a”-ga - With a single “a” Kahe “a”-ga - With double “a” .</description>
+    <pubDate>Sun, 31 Dec 2023 12:32:37 GMT</pubDate>
   </item><item>
     <title>Home</title>
     <link>https://fjelloverflow.github.io/notes//</link>
@@ -18,39 +24,33 @@
     <description>echo &quot;Hello world!&quot; Welcome to my Notes! They are still a work-in-progress. The notes itself are written in Markdown with Obsidian. Then Quartz filters out the public ones and renders them into the static website you are seeing right now.</description>
     <pubDate>Wed, 20 Dec 2023 21:13:29 GMT</pubDate>
   </item><item>
-    <title>🇪🇪 Estonian cheat sheet</title>
-    <link>https://fjelloverflow.github.io/notes/Estonian</link>
-    <guid>https://fjelloverflow.github.io/notes/Estonian</guid>
-    <description>Greetings &amp; Goodbyes § ETENhommikmorningpäevdayõhtueveningöönightkullakehoneytere / tervisthellotšaubyenohwell Tere (hommikust / päevast / õhtust)! - Good (morning / afternoon / evening)! Head aega - Goodbye Nägemiseni siis - See you then Nägemist - See you Kõike head - All the best Kuulmiseni - I’ll be hearing from you Homseni - Until tomorrow Head õhtut - Have a good evening Head ööd - Have a good night Kohtumiseni - Until we see Numbers, Weekdays &amp; Time § ENET0null1üks2kaks3kolm4neli5viis6kuus7seitse8kaheksa9üheksa10kümme11üksteist12kaksteist ETENesmaspäevMondayteisipäevTuesdaykolmapäevWednesdayneljapäevThursdayreedeFridaylaupäevSaturdaypühapäevSunday ETENveerandquarter pastkolmveerandthree quartersjubaalready Esmaspäevani - Until monday Mis kell on? - What’s the time? Kell on 1 - It’s 1 o’clock Kui palju kell on? - What time is it? Kell on pool seitse - I’ts half past six Üks hetk - One moment Ma kohe vaatan - I’ll have a look Appi - Oh dear Pronouns § ETENmina / maIsina / sayou (informal)teie / teyou (formal)tema / tahe/shemeie / meweteie / teyounemad / nadthey Requests § Ütleme sina - Let’s use informal you Tule palung siia - Please come here Helista siis mulle, palun - Please call me then Joo veel kohvi - Drink more coffee Palun ära tee niimodi - Please don’t do that Istu palun - Sit, please Kuhu ma istun? - Where can I sit? Thanks § Aitäh - Thanks Tänu - I thank you Suur aitäh - Big thanks Suur suur aitaäh - Thank you very much Palun - Please / You are welcome / Here you are Vabandust - I’m sorry Vabandage - I’m sorry (formal) Anna andeks - Forgive me Pole midagi/viga - No problem Pole hullu - Nothing crazy Getting acquainted § ETENprouamrshärramrkaptancaptainklounclownkas …question with answer yes / notõestireallynatukenea little Saage palun tuttavaks - Get acquainted Saame tuttavaks - Let’s get acquainted Meeldiv tutvuda - Nice to meet you Väga meeldiv - Very pleasant Samad sõnad - Same here Me pole vist varem kohtunud - We probably have not met before Minu nimi on - My name is Kas ma tohin ennast tutvustada - May I introduce myself? Kas ma tohin tutvustada … - May I introduce …? Do you speak … § Kas sa räägid … keelt? - Do you speak …? Kas sa oskad … keelt? - Do you speak …? Räägin küll - Yes, I do Kahjuks ei oska - Unfortunately, I don’t Mina ka ei oska - I don’t speak it either Ma ei saa aru - I don’t understand Oskan küll - I do indeed Aga sina? - What about you? Kui huvitav - How interesting Verbs § ETENsöömato eatjöömato drinkistumato sittulemato comeolemato berääkimato speak Olema § PronounFormminaolensinaoledtemaonmeieolemeteieoletenemadon Rääkima § PronounFormmarääginsaräägidtaräägibmeräägimeteräägitenadräägivad Mina ei ole - I am not Mina pole - I am not Ma ei … - i don’t … Ära … - Don’t … What’s your name? § ETENniminameperekonnanimisurnameeesnimiforename Minu nimi on … - My name is … Mis su nimi on? - What’s your name? Kas sinu nimi on …? - Is your name …? Kuidas teie perekonnanimi on? - What is your surname? Ja kes teie olete? - And who are you? ENET longET shortmyminumuyoursinusuhis/her/itstemataourmeiemeyourteietetheirnendenende.</description>
-    <pubDate>Sun, 17 Dec 2023 19:11:16 GMT</pubDate>
-  </item><item>
     <title>21 Lessons for the 21st Century</title>
-    <link>https://fjelloverflow.github.io/notes/reading/reviews/21-Lessons-for-the-21st-Century</link>
-    <guid>https://fjelloverflow.github.io/notes/reading/reviews/21-Lessons-for-the-21st-Century</guid>
+    <link>https://fjelloverflow.github.io/notes/Reading/Reviews/21-Lessons-for-the-21st-Century</link>
+    <guid>https://fjelloverflow.github.io/notes/Reading/Reviews/21-Lessons-for-the-21st-Century</guid>
     <description>The long road ahead of us § We are barely one-quarter into the 21st century and even though there is more than 3/4 to go, almost everyone is aware of at least some of the whole lot of issues that society faced recently and is facing just now.</description>
     <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
   </item><item>
     <title>Everybody Lies</title>
-    <link>https://fjelloverflow.github.io/notes/reading/reviews/Everybody-Lies</link>
-    <guid>https://fjelloverflow.github.io/notes/reading/reviews/Everybody-Lies</guid>
+    <link>https://fjelloverflow.github.io/notes/Reading/Reviews/Everybody-Lies</link>
+    <guid>https://fjelloverflow.github.io/notes/Reading/Reviews/Everybody-Lies</guid>
     <description>A book for everybody § Everybody lies can be read by everyone; this is the good message. The prominent buzzword Big Data can be found everywhere in recent years.</description>
     <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
   </item><item>
     <title>Clean Code</title>
-    <link>https://fjelloverflow.github.io/notes/reading/reviews/Clean-Code</link>
-    <guid>https://fjelloverflow.github.io/notes/reading/reviews/Clean-Code</guid>
+    <link>https://fjelloverflow.github.io/notes/Reading/Reviews/Clean-Code</link>
+    <guid>https://fjelloverflow.github.io/notes/Reading/Reviews/Clean-Code</guid>
     <description>The title says it all § What a book titled Clean Code deals with, is hardly any mystery, no matter your professional background. Its content can quite easily be summed up: the book teaches you, the coder and aspiring or practicing software developer, how you should write code.</description>
     <pubDate>Sat, 14 May 2022 00:00:00 GMT</pubDate>
   </item><item>
     <title>Bullshit Jobs</title>
-    <link>https://fjelloverflow.github.io/notes/reading/reviews/Bullshit-Jobs</link>
-    <guid>https://fjelloverflow.github.io/notes/reading/reviews/Bullshit-Jobs</guid>
+    <link>https://fjelloverflow.github.io/notes/Reading/Reviews/Bullshit-Jobs</link>
+    <guid>https://fjelloverflow.github.io/notes/Reading/Reviews/Bullshit-Jobs</guid>
     <description>A provocative claim § The first line of this books Wikipedia-page quotes: “Bullshit Jobs: A Theory (…) postulates the existence of meaningless jobs and analyzes their societal harm.</description>
     <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
   </item><item>
     <title>Factfulness</title>
-    <link>https://fjelloverflow.github.io/notes/reading/reviews/Factfulness</link>
-    <guid>https://fjelloverflow.github.io/notes/reading/reviews/Factfulness</guid>
+    <link>https://fjelloverflow.github.io/notes/Reading/Reviews/Factfulness</link>
+    <guid>https://fjelloverflow.github.io/notes/Reading/Reviews/Factfulness</guid>
     <description>Lets play a little game! § Instead of giving a plain recommendation or review of this book, why don’t you try to answer the following three questions without googleing; if you score less than two right answers, skip my review; you will definitely have to read this book! Where does the majority of the world population live? Low-income countries Middle-income countries High-income countries What is the life expectancy of the world today? 50 years 60 years 70 years How many people in the world have some access to electricity? 20% 50% 80% Our intuition is flawed § I will just assume you have answered at least one of the questions wrong.</description>
     <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
   </item>
